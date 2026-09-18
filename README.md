@@ -1,10 +1,12 @@
-## Hi there 👋
+## Hi there 👋, 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Manali%20Kulkarni&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20%26%20Engineering%20Student&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Building+full-stack+projects+one+bug+at+a+time+%F0%9F%90%9E;Exploring+AI-assisted+development+%F0%9F%A4%96;Always+adaptable%2C+always+learning+%F0%9F%8C%B1" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Manali+Kulkarni;Computer+Science+%26+Engineering+Student;Full-Stack+Developer+in+Progress;Always+Learning+Something+New+%F0%9F%92%BB" />
+
+<img src="https://komarev.com/ghpvc/?username=kmanali401-64698&color=F75C7E&style=for-the-badge&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -65,11 +67,42 @@
 
 ### 🚀 Featured Project
 
-<a href="https://github.com/kmanali401-64698/PawTrace">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kmanali401-64698&repo=PawTrace&theme=radical" />
-</a>
+<div align="center">
+<table>
+<tr>
+<td width="120" align="center">
 
-**🐾 PawTrace** — A full-stack pet identification & safety app. Owners register pets with a unique QR code to help reunite lost pets with their families, while vets log AI-summarized medical reports for continuity of care.
+<img width="90" src="https://raw.githubusercontent.com/twemoji/twemoji/master/assets/72x72/1f43e.png" />
+
+</td>
+<td>
+
+### 🐾 PawTrace
+
+**A full-stack pet identification & safety app**
+
+Owners register their pets and generate a unique, printable **QR code** — if a pet ever goes missing, anyone who finds it can scan the tag to instantly see contact details and help reunite them with their family. Vets can log medical reports tied to each pet's profile, giving future vets full visibility into a pet's health history.
+
+`Next.js` · `Prisma` · `PostgreSQL` · `NextAuth` · `Claude AI`
+
+**Key Features:**
+- 🔐 Role-based login for owners & vets
+- 📱 Auto-generated scannable QR tags
+- 🚨 Lost-pet mode with live location capture on scan
+- 🩺 AI-summarized vet reports for continuity of care
+
+📎 [View Repository →](https://github.com/kmanali401-64698/PawTrace)
+
+</td>
+</tr>
+</table>
+</div>
+
+<p align="center">
+  <a href="https://github.com/kmanali401-64698/PawTrace">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kmanali401-64698&repo=PawTrace&theme=radical" />
+  </a>
+</p>
 
 ---
 
@@ -98,5 +131,7 @@
 </p>
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+</div>v align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 </div>

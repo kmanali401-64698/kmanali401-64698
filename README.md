@@ -109,25 +109,41 @@ Hello! I'm **Manali Kulkarni**, a Computer Science Engineering student passionat
 
 # 🛠️ Technology Stack
 
-### 💻 Programming Languages
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/💻_Programming_Languages-27AE60?style=for-the-badge" />
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,js,html,css,cs" />
 </p>
 
-### 🌐 Web Development
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🌐_Web_Development-00A8E8?style=for-the-badge" />
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,bootstrap,vite" />
 </p>
 
-### 🗄️ Databases
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🗄️_Databases-6C63FF?style=for-the-badge" />
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
 </p>
 
-### 📊 Data Science & Machine Learning
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/📊_Data_Science_%26_ML-E4405F?style=for-the-badge" />
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow" />
@@ -138,18 +154,33 @@ Hello! I'm **Manali Kulkarni**, a Computer Science Engineering student passionat
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 </p>
 
-### ⚙️ Backend & ORM
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/⚙️_Backend_%26_ORM-F7931E?style=for-the-badge" />
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,nextauth" />
 </p>
 
-### 🔧 Tools & Platforms
+<br>
+
+<br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,linux" />
+  <img src="https://img.shields.io/badge/🔧_Tools_%26_Platforms-181717?style=for-the-badge" />
 </p>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,docker,linux,figma,npm,vercel" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</p>
 
 <!-- ========================================================= -->
 <!--                    FEATURED PROJECT                       -->
@@ -353,12 +384,6 @@ A scalable e-commerce platform designed to support multiple sellers and shopping
   />
 </p>
 
-<table width="100%">
-
-<tr>
-
-<td width="50%" valign="top">
-
 # 🎯 My Goals
 
 - ✅ Strengthen Full-Stack Development
@@ -369,45 +394,40 @@ A scalable e-commerce platform designed to support multiple sellers and shopping
 - 🔄 Contribute to Open Source
 - 🔄 Keep learning and building every day
 
-</td>
-
-<td width="50%" valign="top">
-
 <!-- ========================================================= -->
 <!--                    CONNECT WITH ME                        -->
 <!-- ========================================================= -->
 
-# 🤝 Connect With Me
+<p align="center">
+  <img
+    src="https://i.imgur.com/dBaSKWF.gif"
+    height="18"
+    width="100%"
+  />
+</p>
+
+<h1 align="center">🤝 Let's Connect</h1>
+
+<br>
 
 <p align="center">
-
-<a href="https://github.com/kmanali401-64698">
-  <img src="https://cdn.simpleicons.org/github/FFFFFF" height="55" width="55" alt="GitHub"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/manali-kulkarni-3549b0321/">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="55" width="55" alt="LinkedIn"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:kmanali401@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" height="55" width="55" alt="Gmail"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.instagram.com/manalieee_/">
-  <img src="https://cdn.simpleicons.org/instagram/E4405F" height="55" width="55" alt="Instagram"/>
-</a>
-
+  <a href="https://github.com/kmanali401-64698">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/manali-kulkarni-3549b0321/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:kmanali401@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/manalieee_/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
-  📸 <b>@manalieee_</b>
+  📸 <b>@manalieee_</b> &nbsp;|&nbsp; 💼 <b>Manali Kulkarni</b>
 </p>
-
-</table>
-

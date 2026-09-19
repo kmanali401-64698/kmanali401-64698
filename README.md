@@ -9,10 +9,19 @@
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=27AE60&center=true&vCenter=true&width=700&height=50&lines=Computer+Science+Engineering+Student;Full-Stack+Web+Developer;MERN+Stack+Developer;Data+Science+%26+Machine+Learning+Enthusiast;Always+Learning+%26+Building+%F0%9F%9A%80"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2500&pause=700&color=27AE60&center=true&vCenter=true&width=650&height=45&lines=Computer+Science+Engineering+Student;Full-Stack+Web+Developer;MERN+Stack+Developer;Data+Science+%26+ML+Enthusiast;Always+Learning+%26+Building+%F0%9F%9A%80"
       alt="Typing SVG"
     />
   </a>
+</p>
+
+<!-- Small fast-typing cat -->
+<p align="center">
+  <img
+    src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"
+    width="150"
+    alt="Cat typing rapidly on laptop"
+  />
 </p>
 
 <p align="center">
@@ -20,23 +29,33 @@
     src="https://komarev.com/ghpvc/?username=kmanali401-64698&label=PROFILE+VIEWS&color=27AE60&style=for-the-badge"
     alt="Profile Views"
   />
-</p>
-
-<p align="center">
+  &nbsp;
   <a href="https://github.com/kmanali401-64698">
-    <img src="https://img.shields.io/badge/GitHub-kmanali401--64698-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img
+      src="https://img.shields.io/badge/GitHub-kmanali401--64698-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
   </a>
 </p>
 
----
+<!-- Animated divider -->
+<p align="center">
+  <img
+    src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
+    width="100%"
+    height="2"
+  />
+</p>
+
 
 <!-- ========================================================= -->
 <!--                       ABOUT ME                            -->
 <!-- ========================================================= -->
 
-<table>
+<table width="100%">
 <tr>
-<td width="60%" valign="top">
+
+<td width="55%" valign="top">
 
 ## 👩‍💻 About Me
 
@@ -54,48 +73,56 @@ Hello! I'm **Manali Kulkarni**, a Computer Science Engineering student passionat
 
 </td>
 
-<td width="40%" align="center">
-
-<img
-  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-  width="320"
-  alt="Coding Animation"
-/>
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- ========================================================= -->
-<!--                    CURRENTLY LEARNING                     -->
-<!-- ========================================================= -->
+<td width="45%" valign="top">
 
 ## ⚡ Currently Learning
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,docker,gcp" />
 
 </p>
 
----
+<br>
+
+### 💭 Quick Interests
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/🎨_Designing-6C63FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/💻_Tech-00A8E8?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🎵_Music-E4405F?style=for-the-badge" />
+<img src="https://img.shields.io/badge/✈️_Travelling-27AE60?style=for-the-badge" />
+
+</p>
+
+</td>
+
+</tr>
+</table>
+
 
 <!-- ========================================================= -->
 <!--                    TECHNOLOGY STACK                       -->
 <!-- ========================================================= -->
 
+<p align="center">
+  <img
+    src="https://i.imgur.com/dBaSKWF.gif"
+    height="18"
+    width="100%"
+  />
+</p>
+
 # 🛠️ Technology Stack
 
-<details open>
-<summary><b>💻 Programming Languages</b></summary>
+<table width="100%">
 
-<br>
+<tr>
+
+<td width="33%" valign="top">
+
+### 💻 Programming Languages
 
 <p align="center">
 
@@ -103,12 +130,11 @@ Hello! I'm **Manali Kulkarni**, a Computer Science Engineering student passionat
 
 </p>
 
-</details>
+</td>
 
-<details open>
-<summary><b>🌐 Web Development</b></summary>
+<td width="33%" valign="top">
 
-<br>
+### 🌐 Web Development
 
 <p align="center">
 
@@ -116,12 +142,11 @@ Hello! I'm **Manali Kulkarni**, a Computer Science Engineering student passionat
 
 </p>
 
-</details>
+</td>
 
-<details open>
-<summary><b>🗄️ Databases</b></summary>
+<td width="33%" valign="top">
 
-<br>
+### 🗄️ Databases
 
 <p align="center">
 
@@ -129,12 +154,15 @@ Hello! I'm **Manali Kulkarni**, a Computer Science Engineering student passionat
 
 </p>
 
-</details>
+</td>
 
-<details>
-<summary><b>📊 Data Science & Machine Learning</b></summary>
+</tr>
 
-<br>
+<tr>
+
+<td width="50%" valign="top">
+
+### 📊 Data Science & Machine Learning
 
 <p align="center">
 
@@ -142,19 +170,18 @@ Hello! I'm **Manali Kulkarni**, a Computer Science Engineering student passionat
 
 <br><br>
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
 
 </p>
 
-</details>
+</td>
 
-<details>
-<summary><b>🔧 Tools & Platforms</b></summary>
+<td width="50%" valign="top">
 
-<br>
+### 🔧 Tools & Platforms
 
 <p align="center">
 
@@ -162,40 +189,67 @@ Hello! I'm **Manali Kulkarni**, a Computer Science Engineering student passionat
 
 </p>
 
-</details>
+</td>
 
----
+</tr>
+
+</table>
+
 
 <!-- ========================================================= -->
 <!--                    FEATURED PROJECT                       -->
 <!-- ========================================================= -->
 
+<p align="center">
+  <img
+    src="https://i.imgur.com/dBaSKWF.gif"
+    height="18"
+    width="100%"
+  />
+</p>
+
 # 🚀 Featured Project
 
-<table>
+<table width="100%">
 <tr>
 
-<td width="35%" align="center">
+<td width="38%" valign="top">
 
-<h2>🐾 PawTrace</h2>
+<h2 align="center">🐾 PawTrace</h2>
 
-<p>
+<p align="center">
 <b>Pet Identification & Safety Platform</b>
 </p>
 
 <br>
 
+<p align="center">
+
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+
 <br><br>
+
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+
 <br><br>
+
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/NextAuth-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Claude%20AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+
+</p>
 
 </td>
 
-<td width="65%" valign="top">
+<td width="62%" valign="top">
 
-### 🐾 PawTrace — Full-Stack Pet Identification & Safety App
+### 🐾 Full-Stack Pet Identification & Safety App
 
 **PawTrace** is a full-stack pet identification and safety application designed to help pet owners register their pets, generate unique QR tags, and make it easier to reunite lost pets with their families.
 
@@ -203,25 +257,21 @@ When someone finds a lost pet, they can scan the pet's QR code to access relevan
 
 The platform also supports veterinary records, keeping important medical information connected to each pet's profile.
 
-### 🧰 Tech Stack
-
-`Next.js` · `Prisma` · `PostgreSQL` · `NextAuth` · `Claude AI`
-
 ### ✨ Key Features
 
 - 🔐 **Role-based login** for pet owners and veterinarians
-- 📱 **Automatically generated QR tags** for pets
+- 📱 **Automatically generated QR tags**
 - 🐾 **Lost-pet mode** for missing pets
 - 📍 **Location capture** when a QR code is scanned
-- 🩺 **Digital veterinary records** linked to pet profiles
+- 🩺 **Digital veterinary records**
 - 🤖 **AI-summarized veterinary reports**
-- 👤 Pet profiles with important identification details
+- 👤 Pet profiles with identification details
 - 🔗 Quick communication between finders and pet owners
 
 <br>
 
 <a href="https://github.com/kmanali401-64698/PawTrace">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/🔗_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -229,7 +279,6 @@ The platform also supports veterinary records, keeping important medical informa
 </tr>
 </table>
 
----
 
 <!-- ========================================================= -->
 <!--                       OTHER PROJECTS                      -->
@@ -237,7 +286,8 @@ The platform also supports veterinary records, keeping important medical informa
 
 # 📂 Other Projects
 
-<table>
+<table width="100%">
+
 <tr>
 
 <td width="50%" valign="top">
@@ -289,15 +339,23 @@ A scalable e-commerce platform designed to support multiple sellers and shopping
 </td>
 
 </tr>
+
 </table>
 
----
 
 <!-- ========================================================= -->
-<!--                     GITHUB ANALYTICS                      -->
+<!--                     GITHUB STATS                          -->
 <!-- ========================================================= -->
 
-# 📊 GitHub Analytics
+<p align="center">
+  <img
+    src="https://i.imgur.com/dBaSKWF.gif"
+    height="18"
+    width="100%"
+  />
+</p>
+
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -315,72 +373,102 @@ A scalable e-commerce platform designed to support multiple sellers and shopping
 
 </p>
 
----
-
-# 🔥 GitHub Streak
+<br>
 
 <p align="center">
 
 <img
-  width="70%"
+  width="65%"
   src="https://github-readme-streak-stats.herokuapp.com/?user=kmanali401-64698&theme=github-dark-blue&hide_border=true"
   alt="GitHub Streak"
 />
 
 </p>
 
----
-
-# 📈 GitHub Activity
-
-<p align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=kmanali401-64698&theme=github-dark&hide_border=true&area=true"
-  width="95%"
-  alt="GitHub Activity Graph"
-/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img
-  src="https://github-profile-trophy.vercel.app/?username=kmanali401-64698&theme=darkhub&no-frame=true&margin-w=10"
-  alt="GitHub Trophies"
-/>
-
-</p>
-
----
 
 <!-- ========================================================= -->
-<!--                          GOALS                            -->
+<!--                         GOALS                             -->
 <!-- ========================================================= -->
+
+<p align="center">
+  <img
+    src="https://i.imgur.com/dBaSKWF.gif"
+    height="18"
+    width="100%"
+  />
+</p>
+
+<table width="100%">
+
+<tr>
+
+<td width="50%" valign="top">
 
 # 🎯 My Goals
 
-```text
-╔══════════════════════════════════════════════════════════╗
-║                    MANALI'S ROADMAP 🚀                   ║
-╠══════════════════════════════════════════════════════════╣
-║                                                          ║
-║  ✓ Strengthen Full-Stack Development                     ║
-║  ✓ Build meaningful real-world applications              ║
-║  → Improve Data Structures & Algorithms                   ║
-║  → Explore Cloud & DevOps                                 ║
-║  → Deepen Machine Learning knowledge                      ║
-║  → Contribute to Open Source                              ║
-║  → Keep learning and building every day                   ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
+- ✅ Strengthen Full-Stack Development
+- ✅ Build meaningful real-world applications
+- 🔄 Improve Data Structures & Algorithms
+- 🔄 Explore Cloud & DevOps
+- 🔄 Deepen Machine Learning knowledge
+- 🔄 Contribute to Open Source
+- 🔄 Keep learning and building every day
 
-<!-- ========================================================= --> <!-- MORE ABOUT ME --> <!-- ========================================================= -->
-💡 A Little More About Me
+</td>
+
+<td width="50%" valign="top">
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/kmanali401-64698">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/manali-kulkarni-3549b0321/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br><br>
+
+<a href="mailto:kmanali401@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<a href="https://www.instagram.com/manalieee_/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<br><br>
+
+📸 <b>@manalieee_</b>
+
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+
+<!-- ========================================================= -->
+<!--                     MORE ABOUT ME                         -->
+<!-- ========================================================= -->
+
+# 💡 A Little More About Me
+
+<table width="100%">
+<tr>
+
+<td width="100%" valign="top">
+
+```javascript
 const manali = {
     name: "Manali Kulkarni",
     role: "Computer Science Engineering Student",
@@ -404,18 +492,28 @@ const manali = {
 
     mindset: "Always learning, building and improving 🚀"
 };
-<!-- ========================================================= --> <!-- CONNECT WITH ME --> <!-- ========================================================= -->
-🤝 Connect With Me
-<p align="center"> <a href="https://github.com/kmanali401-64698"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> <a href="https://www.linkedin.com/in/manali-kulkarni-3549b0321/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:kmanali401@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a> <a href="https://www.instagram.com/manalieee_/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/> </a> </p> <p align="center">
+</td>
 
-📸 <b>Instagram:</b> <a href="https://www.instagram.com/manalieee_/">@manalieee_</a>
+ </tr>
+</table>
 
-</p>
-<!-- ========================================================= --> <!-- DEV QUOTE --> <!-- ========================================================= -->
-💭 Developer Quote
+<!-- ========================================================= -->
+<!--                         THANK YOU                         -->
+<!-- ========================================================= -->
+
 <p align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Developer Quote" />
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=900&color=27AE60&center=true&vCenter=true&width=650&height=50&lines=✨+Thanks+for+visiting+my+profile!+✨;Let's+build+something+amazing+together!+🚀;Keep+Learning.+Keep+Building.+Keep+Growing.+🌱"
+  alt="Thank You Typing Animation"
+/>
 
 </p>
-<!-- ========================================================= --> <!-- FOOTER --> <!-- ========================================================= --> <p align="center"> <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> <br>
+
+<p align="center">
+  🐱 <i>Typing code... one bug at a time.</i> 💻
+</p>
+
+<p align="center">
+  <i>Made with ❤️, curiosity & lots of ☕</i>
+</p>

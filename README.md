@@ -4,6 +4,10 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D6336C&height=120&section=header" alt="header"/>
 
+<p align="center">
+  <img width="70" src="https://user-images.githubusercontent.com/74038190/216122005-3226fcc7-8713-41a1-ae5a-51d4b4cbcb83.png" alt="cute dog"/>
+</p>
+
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D6336C&width=500&lines=Hello%2C+it's+Manali+Kulkarni;Computer+Science+Engineering+Student;Full-Stack+%7C+MERN+Stack+Developer;Data+Science+%26+ML+Enthusiast" alt="Typing SVG"/>
 </a>
@@ -30,10 +34,6 @@
 </div>
 
 <br>
-
-<p align="center">
-  <img width="160" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" alt="cute cartoon"/>
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/🎨_Designing-D6336C?style=for-the-badge" />

@@ -15,14 +15,7 @@
   </a>
 </p>
 
-<!-- Small fast-typing cat -->
-<p align="center">
-  <img
-    src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"
-    width="150"
-    alt="Cat typing rapidly on laptop"
-  />
-</p>
+
 
 <p align="center">
   <img
@@ -456,64 +449,3 @@ A scalable e-commerce platform designed to support multiple sellers and shopping
 
 </table>
 
-
-<!-- ========================================================= -->
-<!--                     MORE ABOUT ME                         -->
-<!-- ========================================================= -->
-
-# 💡 A Little More About Me
-
-<table width="100%">
-<tr>
-
-<td width="100%" valign="top">
-
-```javascript
-const manali = {
-    name: "Manali Kulkarni",
-    role: "Computer Science Engineering Student",
-
-    interests: [
-        "Full-Stack Development",
-        "MERN Stack",
-        "Data Science",
-        "Machine Learning",
-        "Cloud & DevOps"
-    ],
-
-    hobbies: [
-        "🎵 Music",
-        "🏸 Badminton",
-        "🍳 Cooking",
-        "🧁 Baking",
-        "🌱 Gardening",
-        "✈️ Travelling"
-    ],
-
-    mindset: "Always learning, building and improving 🚀"
-};
-</td>
-
- </tr>
-</table>
-
-<!-- ========================================================= -->
-<!--                         THANK YOU                         -->
-<!-- ========================================================= -->
-
-<p align="center">
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=900&color=27AE60&center=true&vCenter=true&width=650&height=50&lines=✨+Thanks+for+visiting+my+profile!+✨;Let's+build+something+amazing+together!+🚀;Keep+Learning.+Keep+Building.+Keep+Growing.+🌱"
-  alt="Thank You Typing Animation"
-/>
-
-</p>
-
-<p align="center">
-  🐱 <i>Typing code... one bug at a time.</i> 💻
-</p>
-
-<p align="center">
-  <i>Made with ❤️, curiosity & lots of ☕</i>
-</p>

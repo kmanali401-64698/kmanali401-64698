@@ -2,21 +2,21 @@
 <!--                         HEADER                            -->
 <!-- ========================================================= -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F8A5C2&height=120&section=header" alt="header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D6336C&height=120&section=header" alt="header"/>
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=F8A5C2&width=500&lines=Hello%2C+it's+Manali+Kulkarni;Computer+Science+Engineering+Student;Full-Stack+%7C+MERN+Stack+Developer;Data+Science+%26+ML+Enthusiast" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D6336C&width=500&lines=Hello%2C+it's+Manali+Kulkarni;Computer+Science+Engineering+Student;Full-Stack+%7C+MERN+Stack+Developer;Data+Science+%26+ML+Enthusiast" alt="Typing SVG"/>
 </a>
 
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=kmanali401-64698&label=PROFILE+VIEWS&color=F8A5C2&style=for-the-badge"
+    src="https://komarev.com/ghpvc/?username=kmanali401-64698&label=PROFILE+VIEWS&color=D6336C&style=for-the-badge"
     alt="Profile Views"
   />
   &nbsp;
   <a href="https://github.com/kmanali401-64698">
     <img
-      src="https://img.shields.io/badge/GitHub-kmanali401--64698-F8A5C2?style=for-the-badge&logo=github&logoColor=white"
+      src="https://img.shields.io/badge/GitHub-kmanali401--64698-D6336C?style=for-the-badge&logo=github&logoColor=white"
       alt="GitHub"
     />
   </a>
@@ -32,10 +32,15 @@
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🎨_Designing-F8A5C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/💻_Tech-F8A5C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🎵_Music-F8A5C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/✈️_Travelling-F8A5C2?style=for-the-badge" />
+  <img width="100" src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png"/>
+  <img width="150" src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/README/gif/pusheen-code.gif" alt="cute coding cat"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🎨_Designing-D6336C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/💻_Tech-D6336C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🎵_Music-D6336C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/✈️_Travelling-D6336C?style=for-the-badge" />
 </p>
 
 <!-- Animated divider -->
@@ -65,7 +70,7 @@
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💻_Programming_Languages-F8A5C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/💻_Programming_Languages-27AE60?style=for-the-badge" />
 </p>
 
 <p align="center">
@@ -75,7 +80,7 @@
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🌐_Web_Development-F8A5C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🌐_Web_Development-00A8E8?style=for-the-badge" />
 </p>
 
 <p align="center">
@@ -85,7 +90,7 @@
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🗄️_Databases-F8A5C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🗄️_Databases-6C63FF?style=for-the-badge" />
 </p>
 
 <p align="center">
@@ -95,7 +100,7 @@
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📊_Data_Science_%26_ML-F8A5C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📊_Data_Science_%26_ML-E4405F?style=for-the-badge" />
 </p>
 
 <p align="center">
@@ -110,7 +115,7 @@
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/⚙️_Backend_%26_ORM-F8A5C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/⚙️_Backend_%26_ORM-F7931E?style=for-the-badge" />
 </p>
 
 <p align="center">
@@ -120,7 +125,7 @@
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🔧_Tools_%26_Platforms-F8A5C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🔧_Tools_%26_Platforms-181717?style=for-the-badge" />
 </p>
 
 <p align="center">
@@ -128,9 +133,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Antigravity-F8A5C2?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-F8A5C2?style=for-the-badge&logo=notion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Chrome_DevTools-F8A5C2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </p>
 
 
@@ -364,19 +369,19 @@ A scalable e-commerce platform designed to support multiple sellers and shopping
 
 <p align="center">
   <a href="https://github.com/kmanali401-64698">
-    <img src="https://img.shields.io/badge/GitHub-F8A5C2?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/manali-kulkarni-3549b0321/">
-    <img src="https://img.shields.io/badge/LinkedIn-F8A5C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
   <a href="mailto:kmanali401@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-F8A5C2?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://www.instagram.com/manalieee_/">
-    <img src="https://img.shields.io/badge/Instagram-F8A5C2?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 

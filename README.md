@@ -32,8 +32,7 @@
 <br>
 
 <p align="center">
-  <img width="100" src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png"/>
-  <img width="150" src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/README/gif/pusheen-code.gif" alt="cute coding cat"/>
+  <img width="160" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" alt="cute cartoon"/>
 </p>
 
 <p align="center">

@@ -31,45 +31,7 @@ The platform also supports veterinary records, keeping important medical informa
 🤖 AI-summarized veterinary reports
 👤 Pet profiles with identification details
 🔗 Quick communication between finders and pet owners
-<br> <a href="https://github.com/kmanali401-64698/PawTrace"> <img src="https://img.shields.io/badge/🔗_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </td> </tr> </table> <!-- ========================================================= --> <!-- ONGOING PROJECT --> <!-- ========================================================= --> <p align="center"> <img src="https://i.imgur.com/dBaSKWF.gif" height="18" width="100%" /> </p>
-🚧 Currently Building
-<table width="100%"> <tr> <td width="38%" valign="top"> <h2 align="center">🏥 CareQueue</h2> <p align="center"> <b>Smart Clinic Management & Patient Flow System</b> </p> <p align="center"> <img src="https://img.shields.io/badge/🚧_Status-In_Progress-D6336C?style=for-the-badge"/> </p> <br> <p align="center"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<br><br>
-
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-<br><br>
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<br><br>
-
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<br><br>
-
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-<br><br>
-
-<img src="https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/> </p> </td> <td width="62%" valign="top">
-🩺 From Waiting Room to Prescription — One Seamless Flow
-CareQueue is a full-stack clinic management system that digitizes the entire OPD journey — from booking a slot, to waiting in a live queue, to consultation, prescription and billing.
-
-It gives every role in the clinic its own workspace: Admins manage staff and doctor rosters, Receptionists run the front desk and billing, Doctors run their consultation desk, and Patients book and track their own visits.
-
-✨ Key Features:
-
-📅 Smart slot booking generated from each doctor's working days, hours & leaves
-🎟️ Live patient queue with daily tokens and check-in tracking
-📺 Waiting-room TV display with auto-refresh and privacy-masked names
-💊 Digital prescriptions with complete patient visit history
-💳 Flexible billing — basic consultation fee + patient-specific charges & discounts, with printable receipts in ₹
-🔐 Role-based access for Admin, Receptionist, Doctor & Patient
-🛡️ Server-side validation to prevent double bookings & unauthorized access
-🧪 Automated API tests covering every core workflow
-🔜 Coming Next
-🗄️ Migrating to a production database
-☁️ Live deployment
-🔔 SMS / WhatsApp token reminders
-📈 Revenue & visit analytics
-<br> <a href="https://github.com/kmanali401-64698/CareQueue"> <img src="https://img.shields.io/badge/🔗_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </td> </tr> </table> <!-- ========================================================= --> <!-- OTHER PROJECTS --> <!-- ========================================================= -->
+<br> <a href="https://github.com/kmanali401-64698/PawTrace"> <img src="https://img.shields.io/badge/🔗_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </td> </tr> </table> <!-- ========================================================= --> <!-- ONGOING PROJECT --> <!-- ========================================================= --> <p align="center"> <img src="https://i.imgur.com/dBaSKWF.gif" height="18" width="100%" /> </p> <h1>🚧 Currently Building</h1> <table width="100%"> <tr> <td width="38%" valign="top" align="center"> <h2 align="center">🏥 CareQueue</h2> <p align="center"><b>Smart Clinic Management &amp; Patient Flow System</b></p> <p align="center"> <img src="https://img.shields.io/badge/🚧_Status-In_Progress-D6336C?style=for-the-badge"/> </p> <br> <p align="center"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/><br><br> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/><br><br> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/><br><br> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/><br><br> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/><br><br> <img src="https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/> </p> </td> <td width="62%" valign="top"> <h3>🩺 From Waiting Room to Prescription — One Seamless Flow</h3> <p> <b>CareQueue</b> is a full-stack clinic management system that digitizes the entire OPD journey — from booking a slot, to waiting in a live queue, to consultation, prescription and billing. </p> <p> It gives every role in the clinic its own workspace: <b>Admins</b> manage staff and doctor rosters, <b>Receptionists</b> run the front desk and billing, <b>Doctors</b> run their consultation desk, and <b>Patients</b> book and track their own visits. </p> <h3>✨ Key Features</h3> <ul> <li>📅 <b>Smart slot booking</b> generated from each doctor's working days, hours &amp; leaves</li> <li>🎟️ <b>Live patient queue</b> with daily tokens and check-in tracking</li> <li>📺 <b>Waiting-room TV display</b> with auto-refresh and privacy-masked names</li> <li>💊 <b>Digital prescriptions</b> with complete patient visit history</li> <li>💳 <b>Flexible billing</b> — basic consultation fee + patient-specific charges &amp; discounts, with printable receipts in ₹</li> <li>🔐 <b>Role-based access</b> for Admin, Receptionist, Doctor &amp; Patient</li> <li>🛡️ <b>Server-side validation</b> to prevent double bookings &amp; unauthorized access</li> <li>🧪 <b>Automated API tests</b> covering every core workflow</li> </ul> <h3>🔜 Coming Next</h3> <ul> <li>🗄️ Migrating to a production database</li> <li>☁️ Live deployment</li> <li>🔔 SMS / WhatsApp token reminders</li> <li>📈 Revenue &amp; visit analytics</li> </ul> <br> <a href="https://github.com/kmanali401-64698/CareQueue"> <img src="https://img.shields.io/badge/🔗_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </td> </tr> </table> <!-- ========================================================= --> <!-- OTHER PROJECTS --> <!-- ========================================================= -->
 📂 Other Projects
 <table width="100%"> <tr> <td width="50%" valign="top">
 🛡️ SafeRoute

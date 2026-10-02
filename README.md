@@ -72,12 +72,4 @@ MERN · Docker · Multi-Tenancy
 <img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=kmanali401-64698&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 
 </p> <!-- ========================================================= --> <!-- GOALS --> <!-- ========================================================= --> <p align="center"> <img src="https://i.imgur.com/dBaSKWF.gif" height="18" width="100%" /> </p>
-🎯 My Goals
-✅ Strengthen Full-Stack Development
-✅ Build meaningful real-world applications
-🔄 Improve Data Structures & Algorithms
-🔄 Explore Cloud & DevOps
-🔄 Deepen Machine Learning knowledge
-🔄 Contribute to Open Source
-🔄 Keep learning and building every day
 <!-- ========================================================= --> <!-- CONNECT WITH ME --> <!-- ========================================================= --> <p align="center"> <img src="https://i.imgur.com/dBaSKWF.gif" height="18" width="100%" /> </p> <h1 align="center">🤝 Let's Connect</h1> <br> <p align="center"> <a href="https://github.com/kmanali401-64698"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> &nbsp; <a href="https://www.linkedin.com/in/manali-kulkarni-3549b0321/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> &nbsp; <a href="mailto:kmanali401@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> &nbsp; <a href="https://www.instagram.com/manalieee_/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> </p> <p align="center"> 📸 <b>@manalieee_</b> &nbsp;|&nbsp; 💼 <b>Manali Kulkarni</b> </p>

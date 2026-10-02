@@ -54,7 +54,8 @@ CareQueue is a full-stack clinic management system that digitizes the entire OPD
 
 It gives every role in the clinic its own workspace: Admins manage staff and doctor rosters, Receptionists run the front desk and billing, Doctors run their consultation desk, and Patients book and track their own visits.
 
-✨ Key Features
+✨ Key Features:
+
 📅 Smart slot booking generated from each doctor's working days, hours & leaves
 🎟️ Live patient queue with daily tokens and check-in tracking
 📺 Waiting-room TV display with auto-refresh and privacy-masked names
